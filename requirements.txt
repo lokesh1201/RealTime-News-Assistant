@@ -1,0 +1,12 @@
+newspaper3k
+pandas
+openpyxl
+transformers
+torch
+langchain
+openai
+streamlit
+beautifulsoup4
+requests
+python-dotenv
+

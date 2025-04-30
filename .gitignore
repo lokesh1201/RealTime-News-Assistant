@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# System
+.DS_Store
+
+# Logs and cache
+*.log
+*.sqlite3
+*.db
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
